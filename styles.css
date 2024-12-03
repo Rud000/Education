@@ -38,11 +38,14 @@ body {
     text-decoration: none;
     color: white;
     font-size: 1rem;
-    transition: color 0.3s ease;
+    transition: color 0.3s all;
 }
 
 .nav-links a:hover {
-    color: #ffc107;
+    color: #FFFFFF;
+    background-color:#000000;
+    padding:5px;
+    border-radius:3px;
 }
 
 /* News Section */
